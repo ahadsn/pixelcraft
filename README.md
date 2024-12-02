@@ -1,0 +1,2 @@
+# pixelcraft
+set games
